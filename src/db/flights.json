@@ -1,0 +1,24 @@
+{
+  "Flights": [
+    {
+      "DepartureIata": "BGY",
+      "ArrivalIata": "IEV",
+      "LocalDepartureTime": "04:10"
+    },
+    {
+      "DepartureIata": "BGY",
+      "ArrivalIata": "IEV",
+      "LocalDepartureTime": "08:00"
+    },
+    {
+      "DepartureIata": "MXP",
+      "ArrivalIata": "IEV",
+      "LocalDepartureTime": "13:40"
+    },
+    {
+      "DepartureIata": "MXP",
+      "ArrivalIata": "IEV",
+      "LocalDepartureTime": "19:00"
+    }
+  ]
+}
